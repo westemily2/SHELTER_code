@@ -1,5 +1,5 @@
 # SHELTER_code
-"""
+
 The code presents an agent-based model for Ravenna, Italy, created by Ekodenge UK as part of the SHELTER project, task 2.6.
 
 The model simulates a 2-month period of climatic data in Ravenna, including both rainfall and temperature. Based on this, there is a map of the city 
@@ -10,4 +10,4 @@ these are pedestrian areas, streets and car parks.
 
 The model can be launched by typing into the command prompt 'mesa runserver'. 
 
-"""
+
